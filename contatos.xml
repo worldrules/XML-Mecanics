@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<agenda>
+  <contato Id="Identificação">
+    <nome>Kobold</nome>
+    <estado>RS</estado>
+    <valor>900</valor>
+    <email>worldrulesdev@gmail.com</email>
+    <novo/>
+  </contato>
+</agenda>
